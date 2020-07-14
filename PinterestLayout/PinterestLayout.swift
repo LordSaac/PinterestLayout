@@ -1,12 +1,4 @@
-Pinterres Code 
 
-//
-//  PinterestLayout.swift
-//  Lovela.iOS.Apple
-//
-//  Created by Isaac Gutiérrez on 5/12/20.
-//  Copyright © 2020 Isaac Gutiérrez. All rights reserved.
-//
 
 import Foundation
 import UIKit
